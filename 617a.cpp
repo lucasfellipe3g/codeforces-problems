@@ -1,0 +1,16 @@
+/**
+ *    author:  lucas
+ *    created: 17.04.2023 11:33:38
+**/
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+  ios::sync_with_stdio(false);
+  cin.tie(0);
+  int x;
+  cin >> x;
+  cout << (x + 4) / 5 << '\n';
+  return 0;
+}
